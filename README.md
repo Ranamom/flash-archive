@@ -6,7 +6,7 @@ A list of Legendary Flash Games saved in a `.sfw` format as an archive.
 
 You can use an emulator like [Ruffle](https://ruffle.rs/) to play those games.
 
-I also hosted [a site](https://antomuto4.github.io/flash-archive) for all the games that are on here so you can play them easily in your browser without installing the games. However you do need an extention called [Flash Player](https://chrome.google.com/webstore/detail/flash-playlist/nddmmcpmdbkooddfjcohmlcfclhllgeh/) to get these working.
+I also hosted [a site](https://antomuto4.github.io/flash-archive) for all the games that are on here so you can play them easily in your browser without installing the games. However you do need an extension called [Flash Player](https://chrome.google.com/webstore/detail/flash-playlist/nddmmcpmdbkooddfjcohmlcfclhllgeh/) to get these working.
 
 ### Releases
 
