@@ -10,7 +10,7 @@ I also hosted [a site](https://antomuto4.github.io/flash-archive) for all the ga
 
 ### Releases
 
-In the releases tab, there will be a compressed file that will have a list of all of these files inside. Meaning you can instantly install all of these games and back them up locally if you wish to do so without cloning the repository.
+~~In the releases tab, there will be a compressed file that will have a list of all of these files inside. Meaning you can instantly install all of these games and back them up locally if you wish to do so without cloning the repository.~~
 
 ### How can I export flash games that are still online to this day?
 
